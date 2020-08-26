@@ -1,0 +1,24 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "This assignment covered the creation of a an automated README generator for an application.",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinhemphill/ReadmeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinhemphill/ReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/martinhemphill/ReadmeGenerator#readme"
+}
