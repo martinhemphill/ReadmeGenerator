@@ -1,1 +1,9 @@
-[object Object]
+Title: "What's In the Pantry?"
+Description: "What's in the pantry is an app that allows users to search for kitchen recipies using input ingredients."
+Installation: "No installation required. Visit URL."
+Usage: "Go to pantry URL"
+License: "MIT"
+Contribution: "Contact Martin Hemphill"
+Testing: "Go to url and input ingredients to search bar separated by comma."
+Github Username: "martinhemphill"
+Email Address: "mthemphi@gmail.com"
